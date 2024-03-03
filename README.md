@@ -11,3 +11,7 @@ I'm passionate about data science and the stock market, which inspired me to cre
 * User-Friendly Interface: Provides a clean and intuitive interface for easy input of stock data and retrieval of predictions.
 * Customizable Parameters: Allows users to adjust parameters and settings to tailor predictions to their specific needs.
 * Prediction Accuracy: Delivers reliable predictions based on thorough analysis of historical data and market trends.
+
+## Contributing
+Contributions to the Simple Stock Predictor project are welcome! If you have ideas for new features, bug fixes, or improvements, feel free to submit a pull request. Additionally, you can provide feedback or report issues by opening a new GitHub issue.
+For more infomation watch the video: https://www.youtube.com/watch?v=OXwZtlcTiuk
