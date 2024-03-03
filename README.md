@@ -15,3 +15,5 @@ I'm passionate about data science and the stock market, which inspired me to cre
 ## Contributing
 Contributions to the Simple Stock Predictor project are welcome! If you have ideas for new features, bug fixes, or improvements, feel free to submit a pull request. Additionally, you can provide feedback or report issues by opening a new GitHub issue.
 For more infomation watch the video: https://www.youtube.com/watch?v=OXwZtlcTiuk
+
+![Screenshot (471)](https://github.com/SerchMat/Build-a-Stock-Trend-Prediction/assets/103864238/75b2643d-2afa-4b62-ab6c-c6ae0f2adfdc)
